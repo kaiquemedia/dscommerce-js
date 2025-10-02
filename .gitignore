@@ -1,0 +1,8 @@
+# Ignorar arquivos desnecessários
+node_modules/
+*.log
+.DS_Store
+.env
+dist/
+tmp/
+
